@@ -1,2 +1,2 @@
 # HoopsAimBot
-Will be paid in a week.
+In trial currently
